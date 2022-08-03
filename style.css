@@ -1,0 +1,47 @@
+.banner {
+	background: url(image/background.png) no-repeat center center;
+	background-size: cover;
+	padding-top: 8%;
+	padding-bottom: 1%;
+	color: rgb(197, 95, 0);
+}
+.Fitur {
+	background: linear-gradient(to right, white, rgb(250, 216, 154),white);
+	background-size: cover;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.navbar {
+	background: linear-gradient(to right, white, rgb(250, 216, 154));
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 125%;
+	font-weight: bolder;
+}
+.display-3 {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background: linear-gradient(to right, white, rgb(250, 216, 154),white);
+}
+.Video{
+	background: linear-gradient(to right, white, rgb(250, 216, 154),white)no-repeat center center;
+	background-size: cover;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.btn1{
+	background: linear-gradient(to right, white, rgb(250, 216, 154),white)no-repeat center center;
+}
+p {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: large;
+	font-weight: bolder;
+}
+.Profil {
+	background: linear-gradient(to right, white, rgb(250, 216, 154),white)no-repeat center center;
+	background-size: cover;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+section{
+	padding-top: 50%;
+	padding-bottom: 50%;
+}
